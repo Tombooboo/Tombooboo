@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tommiejasmine
+- 👋 Hi, I’m @tommie
 - 👀 I’m interested in ... cybersecurity and web development
 - 🌱 I’m currently learning ...cybersecurity and web development
 - 💞️ I’m looking to collaborate on ...cybersecurity and web development
